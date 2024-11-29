@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Social-Gaze/static/css/main.1dd29fc4.css",
-    "main.js": "/Social-Gaze/static/js/main.ac362145.js",
+    "main.js": "/Social-Gaze/static/js/main.b9a1787b.js",
     "static/js/453.0adb4d33.chunk.js": "/Social-Gaze/static/js/453.0adb4d33.chunk.js",
     "index.html": "/Social-Gaze/index.html",
     "main.1dd29fc4.css.map": "/Social-Gaze/static/css/main.1dd29fc4.css.map",
-    "main.ac362145.js.map": "/Social-Gaze/static/js/main.ac362145.js.map",
+    "main.b9a1787b.js.map": "/Social-Gaze/static/js/main.b9a1787b.js.map",
     "453.0adb4d33.chunk.js.map": "/Social-Gaze/static/js/453.0adb4d33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1dd29fc4.css",
-    "static/js/main.ac362145.js"
+    "static/js/main.b9a1787b.js"
   ]
 }
